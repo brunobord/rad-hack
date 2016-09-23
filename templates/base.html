@@ -1,0 +1,116 @@
+<html>
+    <head>
+        <title>RAD-Hack -- $title</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name=viewport content="width=device-width, initial-scale=1">
+    </head>
+<style>
+@font-face {
+    font-family: 'Alegreya';
+    src: url('$static/Alegreya-Regular.otf') format('truetype');
+}
+@font-face {
+    font-family: 'COCOGOOSE LETTERPRESS';
+    src: url('$static/COCOGOOSELETTERPRESS.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/**
+ * Layout
+ */
+html {
+  overflow-y: scroll;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+
+body {
+  padding: 1em;
+  margin: auto;
+  max-width: 42em;
+}
+/**
+ * Styles
+ */
+body {
+    font-family: Alegreya, serif;
+    color: #252525;
+}
+h1, h2, h3, h4, h5, h6, th {
+    font-family: 'COCOGOOSE LETTERPRESS';
+    text-transform: uppercase;
+}
+/* Anchors in headers */
+a.headerlink {
+    font-size: 0.8em;
+    color: #fff;
+    text-decoration: none;
+    font-weight: normal;
+    padding-left: .3em;
+}
+a.headerlink:hover {
+    color: #888;
+}
+/* Converting saves trick to have tables aligned */
+/* english */
+    #converting-saves + p + table,
+    #converting-saves + p + table + table
+{
+    display: table;
+}
+/**
+ * Tables
+ */
+table {
+  display: block;
+  width: 100%;
+  overflow: auto;
+  word-break: normal;
+  word-break: keep-all;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+table th {
+  font-weight: bold;
+  background: #252525;
+  color: #fff;
+}
+table th, table td {
+  padding: 6px 13px;
+  border: 1px solid #ddd;
+}
+table tr {
+  background-color: #fff;
+  border-top: 1px solid #dcdcdc;
+}
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+/* Specific japanese style, for the bestiary */
+#mi-yi-zhou-wen ~ table {
+    word-break: normal;
+}
+th em {
+    font-family: Alegreya, serif;
+}
+p, blockquote, ul, ol, dl, table, pre {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+a, a:hover {
+    color: #000;
+}
+footer {
+    font-size: small;
+    border-top: 1px solid #444;
+}
+</style>
+    <body>
+        <section>$body</section>
+        <footer>
+            $source_file
+            <p>This website is made by Bruno Bord - 2016, based on Karl Stjernberg's work -- <a href="https://github.com/brunobord/rad-hack">Github project</a> -- <a href="$license">This website OGL</a> -- build: v$git_version ($version)</p>
+        </footer>
+    </body>
+</html>

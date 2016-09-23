@@ -16,7 +16,7 @@ We intend to publish translations of "RAD-Hack" in various languages, provided b
 
 ## References
 
-* [Karl Stjenberg G+ Profile](https://plus.google.com/103342954014125100135),
+* [Karl Stjernberg G+ Profile](https://plus.google.com/103342954014125100135),
 * [RAD-Hack on DrivethruRPG](http://www.drivethrurpg.com/product/187874/The-RadHack)
 * [RAD-Hack on Lulu (print on demand)](http://www.lulu.com/shop/karl-stjernberg/rad-hack/paperback/product-22811979.html)
 * [The Black Hack G+ Community](https://plus.google.com/communities/107832933727516137622),
