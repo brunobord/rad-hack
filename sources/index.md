@@ -12,7 +12,10 @@ See the [License page](license.html) for more details.
 
 ## List of available texts
 
-Nothing here yet, get your eyes open.
+We're currently trying to get the raw english text. It's still a Work In Progress, nothing fancy yet.
+
+$text_list
+
 
 ## References
 
