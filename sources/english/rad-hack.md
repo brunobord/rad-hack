@@ -404,7 +404,7 @@ Characters can regain lost Hit Points from Herbs, Drugs, Abilities and in the ca
 
 When characters rest for about an hour, they regain the use of all their Armor points. Also once per day, after a 6 hour rest, their Ability Die is completely refreshed and they may roll a Hit Die associated with their class and regain that many HP.
 
-## MOVEMENT & DISTANCE
+## Movement & distance
 
 Rather than track precise numbers, The **Rad-Hack** uses 4 abstract ranges for measuring distances. **Close**, **Nearby**, **Far-Away** and **Distant**. On their turn every character can move somewhere **Nearby** as part of an action, performing that action at any stage of the move. They can forgo their action and move somewhere **Far-Away** instead. Anything beyond **Far-Away** can be classified as **Distant** and would take 3 moves to get to.
 
@@ -415,18 +415,19 @@ If you want to use existing modules, new and old, with more defined movement rat
 | 0 - 5ft  |   5 - 60ft | 60 - 120ft |
 | 0 - 1,5m | 1,5 - 20m  | 20 - 40m   |
 
-## ENCUMBRANCE
+## Encumbrance
 
 A character can carry a number of items equal to their STR with no issues. Carrying more than this amount means they are **encumbered** and all attribute tests are taken with **Disadvantage** - you can also only ever move to somewhere Nearby. A character simply cannot carry more than double their STR.
 
-## EXPERIENCE
+## Experience
 
 Adventurers learn through defeating and overcoming obstacles. Killing another Raider won’t bring a revelation of learning to someone. Surviving a bunker expedition, completing a mission or simply living to tell the tale are the things that bring perspective and growth. The old experience system has been completely discarded.
 
-GAINING LEVELS
+## Gaining levels
+
 For every session, bunker level, dangerous mission and/or major event the character survives they gain a level. The GM will decide which, and it’s recommended that this decision remains more or less a constant throughout the campaign - and a **GM** should be clear and upfront with the players so they know where the ‘goalposts’ are. When a character **levels** up, their maximum Hit Points increase by rolling the Hit Die for the class. A player should also roll a d20 for each Stat. If the result is higher - that Stat increases by 1.
 
-## DRUGS & ADDICTION
+## Drugs & addiction
 
 All drugs take effect immediately after they have been used and last for **d6 blissful minutes**. When the effect wears off, you get Disadvantage to all INT and WIS tests for the **following hour**. If any one drug is used more than once per day, a CON test must be passed or the user becomes **addicted**. An addict must take one hit every 8 hours, or get disadvantage to all **INT**, **WIS** and **CHA** tests. Drugs are normally easy to come by, and the pricing depends entirely on the supply and demand, but normally cost between 20-50 Slugs/dose.
 
@@ -441,7 +442,7 @@ All drugs take effect immediately after they have been used and last for **d6 bl
 | Rad-Off    | Refreshes Radiation Die by one step, up to its maximum.                            |
 | Rad-Screen | Gain Advantage when rolling Radiation Die for 1 hour.                              |
 
-## RADIATION
+## Radiation
 
 When you approach a zone that is glowing from radiation, roll your **Radiation Die**.
 
@@ -458,7 +459,7 @@ The radiation die never goes below d4, but a roll on 1-2 still counts as if it w
 |    5   | **It burns!** - Take d12 damage.                                       |
 |    6   | **“I’m melting!“** - You melt into a glowing, horrible mess (and die). |
 
-## POISONS
+## Poisons
 
 Poisons come in many different forms and can cause a wide variety of effects on the victim. Most poisons will require a passed **CON** test to resist and/or neutralize. See table below for examples of poisons:
 
@@ -469,7 +470,7 @@ Poisons come in many different forms and can cause a wide variety of effects on 
 | Sleep          | Victim is knocked out for 8 hours. Can be awakened. |
 | Paralyzing     | Lose ability to move.                               |
 
-## CONTROLLING ROBOTS
+## Controlling robots
 
 Humans can attempt to give a nearby robot an order as an action. They must successfully test their **CHA** for each robot they are attempting to control, adding the Robots’s **HD** to the roll. The GM can also give further modifications, Advantage/Disadvantage to the roll depending on the complexity of the order. Robots that are Controlled by Humans must spend all their actions and movement to obey the command of the Human for 2d4
 
@@ -483,11 +484,11 @@ Moments after being Controlled. After that, their software reboots and they go b
 | “Attack...”                 |      +3      |
 | “Shut down...”              |      +4      |
 
-## RANDOM ENCOUNTERS
+## Random encounters
 
 The GM should roll a d4 every 15 minutes of real world play, or whenever it makes sense in the fiction (when the player characters are being loud). A result of 1-2 means the players will encounter a randomly generated creature or distraction in the following Minutes (turn).
 
-## CREATURE REACTIONS
+## Creature reactions
 
 Some creatures and NPCs will have predetermined personalities and goals that will guide a GM when choosing their actions and feelings towards the characters. Those that do not, such as randomly encountered creatures, make a d8 Reaction roll on the following table:
 
@@ -502,7 +503,7 @@ Some creatures and NPCs will have predetermined personalities and goals that wil
 |   7    | Call for Reinforcements.     |
 |   8    | Capture/Kill/Eat the PCs.    |
 
-## TECH
+## Tech
 
 Tech is a collective term for highly advanced, pre-apocalypse equipment that give its owner a variety of beneficial effects and abilities. **Tech Weapons** might add +2 to any attribute being tested while using it, ignore armor, sets enemies on fire, etc. **Tech Armor** can double the amount of AP the armor type would normally have, protect its user from radiation, refresh spent AP after every combat, or other beneficial effects. Most (if not all) Tech rely on a steady supply of **Energy Packs**, a rare and expensive power supply. An Energy Pack has a d6 Usage Die, but more powerful variations are rumored to exist.
 
@@ -510,7 +511,7 @@ Without these, most tech items simply will not work. When creating your own Tech
 
 When rolling to see the **Quality** of Tech, roll a d6 instead of the normal d8.
 
-## UNDERSTANDING TECH
+## Understanding tech
 
 To effectively use Tech, you must first understand how it works. Normally it is enough that the player describes how her character experiments with the Tech, but some highly advanced Tech requires a successful INT test to fully understand and make use of. Such a roll is often made with Disadvantage.
 
@@ -529,7 +530,7 @@ To effectively use Tech, you must first understand how it works. Normally it is 
 | Item          | Energy Cloak         | Blend into environment to gain Advantage on stealth test.                                                               |
 | Item          | Quantum Communicator | Sender and Receiver. Can send short messages one way. Unlimited range. Everyone Nearby rolls their Radiation Die.       |
 
-## VEHICLES & DRIVING
+## Vehicles & driving
 
 Everyone can drive a **Vehicle**, but it takes skill and a successful **DEX** check to pull off a crazy or daring maneuver behind the wheel. Vehicles have Hit Points and Armor Points.
 
