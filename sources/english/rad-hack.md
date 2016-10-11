@@ -138,7 +138,7 @@ To effectively use Tech, you must first understand how it works. Normally it is 
 
 Everyone can drive a **Vehicle**, but it takes skill and a successful **DEX** check to pull off a crazy or daring maneuver behind the wheel. Vehicles have Hit Points and Armor Points.
 
-These can only be repaired if **Scrap** is used and an INT test is passed. Attack rolls made while in a moving vehicle have Disadvantage, while Defense Rolls have Advantage. When a vehicle reaches 0 Hit Points, roll a d6 on the table on the opposite page.
+These can only be repaired if **Scrap** is used and an INT test is passed. Attack rolls made while in a moving vehicle have Disadvantage, while Defence Rolls have Advantage. When a vehicle reaches 0 Hit Points, roll a d6 on the table on the opposite page.
 
 | MODEL            | DESCRIPTION                                                                                                                 |       COST |
 |:-----------------|:----------------------------------------------------------------------------------------------------------------------------|-----------:|
@@ -167,11 +167,11 @@ These can only be repaired if **Scrap** is used and an INT test is passed. Attac
 | Buzz-Drone               |  1   | Attacks from the air with saw-like blades. Has an 3 Armor Points.                                                                                                                       |
 | RAD-Head                 |  1   | Humanoid whose brain is half melted away by radiation causing madness. Attacks on sight.                                                                                                |
 | Sludge Slaver            |  2   | Aims to enslave and attacks with nets first, then spears.                                                                                                                               |
-| Raider                   |  2   | Can enter drug fueled rage that gives Disadvantage on defense rolls.                                                                                                                    |
+| Raider                   |  2   | Can enter drug fueled rage that gives Disadvantage on defence rolls.                                                                                                                    |
 | Raider Poisoner          |  2   | Sneaks up on lone targets and attacks with poison tipped blades 1d6 + CON test or take d6 damage each moment until treated.                                                             |
 | Corpse Worm              |  2   | Explodes out of dead bodies and tries to burrow through target with drill-like mouth. Pass STR test or get burrowed through for 1d8 CON damage. Roll on OofA table if CON reaches zero. |
 | Cannibal                 |  2   | Pale, lumbering mutants that attack with Light Melee, Ranged and 1 random Mutation.                                                                                                     |
-| Cannibal Berserker       |  2   | As above, but attacks in a blood fueled rage (1 moment to activate) with two war axes (d6), Defense Rolls are at a Disadvantage.                                                        |
+| Cannibal Berserker       |  2   | As above, but attacks in a blood fueled rage (1 moment to activate) with two war axes (d6), Defence Rolls are at a Disadvantage.                                                        |
 | Cannibal Blood Priest    |  3   | Attacks by channeling mutant blood powers, causing blood to flow out of mouth, eyes and ears of target (d6). CON test or all rolls are at a Disadvantage for 1d4 moments.               |
 | Cryo Wasp                |  3   | Normal attacks are at Disadvantage. Area and fire-based attacks deal double damage. Stinger (d4) freezes target until it passes CON test.                                               |
 | Mushroom’d Man           |  3   | Inhale its spores to communicate with it mentally. It can cause linked target to experience hallucinations at will.                                                                     |
