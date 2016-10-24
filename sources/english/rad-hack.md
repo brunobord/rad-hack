@@ -309,7 +309,7 @@ Fully automated guns, such as SMGs and machine guns give the player the option t
 
 ## Equipment quality & degradation
 
-Whenever weapons and armor is found or about to be bought, roll a **d8** on the table below to see what its **Quality Die** is. The GM will increase or decrease the cost of equipment by 5-20 Slugs, depending on its quality. When rolling an attack roll of **20** or when dealing **maximum damage** with a Melee Weapon, test the corresponding **Quality Die** to see if the weapon breaks. When rolling an attack roll of **20** with a Ranged Weapon, test the corresponding **Quality Die** to see if the weapon breaks. When rolling a **20** on a defensive roll, test the corresponding **Quality Die** to see if the armor breaks. Equipment can be repaired by using **Scrap** and testing **INT**. A successful test increases the **Quality Die** by one step, to a maximum of D8. Whenever equipment is used in ways that could harm it, test the **Quality Die**.
+Whenever weapons and armor is found or about to be bought, roll a **d8** on the table below to see what its **Quality Die** is. The GM will increase or decrease the cost of equipment by 5-25 Slugs, depending on its quality. When rolling an attack roll of **20** or when dealing **maximum damage** with a Melee Weapon, test the corresponding **Quality Die** to see if the weapon breaks. When rolling an attack roll of **20** with a Ranged Weapon, test the corresponding **Quality Die** to see if the weapon breaks. When rolling a **20** on a defensive roll, test the corresponding **Quality Die** to see if the armor breaks. Equipment can be repaired by using **Scrap** and testing **INT**. A successful test increases the **Quality Die** by one step, to a maximum of D8. Whenever equipment is used in ways that could harm it, test the **Quality Die**.
 
 
 | Result | Quality die |
@@ -349,7 +349,7 @@ When combat breaks out, everyone must be sorted into an order so they each get t
 
 ## Critical damage
 
-If a player rolls a 1 when making an attack roll, the attack counts as a **critical hit** which doubles the result of the damage dice they roll. If they roll a **20** when avoiding an attack, they instead take **double damage** as the ennemy just landed a **critical hit**. Armor Points are used normally. Don’t forget to check the Weapon and Armor Quality Die.
+If a player rolls a 1 when making an attack roll, the attack counts as a **critical hit** which doubles the result of the damage dice they roll. If they roll a **20** when avoiding an attack, they instead take **double damage** as the enemy just landed a **critical hit**. Armor Points are used normally. Don’t forget to check the Weapon and Armor Quality Die.
 
 | Monster HD |     Damage     |
 |:----------:|:--------------:|
@@ -364,7 +364,7 @@ If a player rolls a 1 when making an attack roll, the attack counts as a **criti
 |     9      |   2d10 (10)    |
 |     10     | d10 + d12 (11) |
 
-HD represents an ennemy’s level and the number of d8 rolled to determine its HP.
+HD represents an enemy’s level and the number of d8 rolled to determine its HP.
 
 ## Class weapons
 
@@ -378,7 +378,7 @@ When a character is reduced to zero Hit Points (HP) they are taken **Out of Acti
 
 ## Powerful opponents
 
-For every **HD** above the character’s level, add +1 to every roll the player makes for any attribute test that would determine the outcome of a conflict between them and the powerful opponent. *- A level 3 character defending against a HD 5 ennemy attack would add +2 to their roll*.
+For every **HD** above the character’s level, add +1 to every roll the player makes for any attribute test that would determine the outcome of a conflict between them and the powerful opponent. *- A level 3 character defending against a HD 5 enemy attack would add +2 to their roll*.
 
 ## Deadlier combat
 
