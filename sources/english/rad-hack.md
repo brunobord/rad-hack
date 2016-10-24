@@ -216,7 +216,7 @@ Gain a random **Psionic Power** on **even** levels, to a max of five. When gaini
 |8. Telekinetic |Manipulate nearby small to medium size object.
 |9. Psi-Blast |Target takes d10+level damage. Up to far-away range.
 |10. Sleep |Nearby target falls asleep.
-|11. Force Field |All nearby allies gain 4 Armor Points for one minute.
+|11. Force Field |All nearby allies gain 2 Armor Points for one minute.
 |12. Illusion |Influence what nearby target sees.
 |13. Sound Imitation |Influence what nearby target hears and from where.
 |14. Life Leech |Nearby target takes d6+level damage. User heals same amount.
