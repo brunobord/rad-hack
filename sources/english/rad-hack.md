@@ -374,7 +374,7 @@ When using a weapon not listed in their class, combat tests have **Disadvantage*
 
 When a character is reduced to zero Hit Points (HP) they are taken **Out of Action (OofA)**. They are unconscious and cannot make any actions. When the fight is over and/or the characters are out of danger, a character that is taken OofA rolls a d8 on the OofA table to see what happens to them. If they survive they gain 1d4 HP immediately. That character is now back on their feet and no longer OofA.
 
-*If the characters lose the fight or are unable to recover the body of a character, they character is lost forever!*
+*If the characters lose the fight or are unable to recover the body of a character, their character is lost forever!*
 
 ## Powerful opponents
 
