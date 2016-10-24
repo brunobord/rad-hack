@@ -154,78 +154,78 @@ Gain a random **Psionic Power** on **even** levels, to a max of five. When gaini
 
 ----
 
-|Mutations| Effect
-|---------|--------
-|1. Chameleon |Blend into environment to gain advantage on stealth test.
-|2. Winged |Gain ability to fly up to far-away range.
-|3. Poison Gland |Unarmed attack poisons target. Mutant player chooses poison.
-|4. Extendable Claws |Unarmed attack deals d8+level damage. Concealable at will.
-|5. Spines |Ranged attack shoots spines up to nearby range for 1d6+level damage.
-|6. Sonar |Instant sound-based echolocation up to far-away.
-|7. Magnetism |Attract/repel small, metallic object from/to up to nearby distance. Ranged attack with object does unarmed+level damage.
-|8. Photosynthesis |Sunlight replaces food.
-|9. Climber |Advantage on Climbing test.
-|10. Adrenal Gland (R) |Act first in Combat Initiative.
-|11. Web |Ranged attack snares prey.
-|12. Exoskeleton (R) |Gain 2 Armor Points for the next minute.
-|13. Acid Saliva |Unarmed attack causes level acid damage and coats target in corrosive slime.
-|14. Parasite |Unarmed attack deals d6+level damage and heals the Mutant with half the amount.
-|15. Long Tail |Advantage on Balance test. Ability to grab small objects within close range.
-|16. Pheromone Glands |Advantage on test to influence target.
-|17. Regeneration |Pass CON test to heal d6+level hit points.
-|18. Spore Cloud (R) |Advantage on defensive test.
-|19. Fire Breath |Ranged attacks that breathes fire for d6+level damage up to nearby.
-|20. Amphibian |Breathe underwater for 10 minutes. Advantage on test for moving in water.
+| Mutations             | Effect                                                                                                                   |
+|:----------------------|:-------------------------------------------------------------------------------------------------------------------------|
+| 1. Chameleon          | Blend into environment to gain advantage on stealth test.                                                                |
+| 2. Winged             | Gain ability to fly up to far-away range.                                                                                |
+| 3. Poison Gland       | Unarmed attack poisons target. Mutant player chooses poison.                                                             |
+| 4. Extendable Claws   | Unarmed attack deals d8+level damage. Concealable at will.                                                               |
+| 5. Spines             | Ranged attack shoots spines up to nearby range for 1d6+level damage.                                                     |
+| 6. Sonar              | Instant sound-based echolocation up to far-away.                                                                         |
+| 7. Magnetism          | Attract/repel small, metallic object from/to up to nearby distance. Ranged attack with object does unarmed+level damage. |
+| 8. Photosynthesis     | Sunlight replaces food.                                                                                                  |
+| 9. Climber            | Advantage on Climbing test.                                                                                              |
+| 10. Adrenal Gland (R) | Act first in Combat Initiative.                                                                                          |
+| 11. Web               | Ranged attack snares prey.                                                                                               |
+| 12. Exoskeleton (R)   | Gain 2 Armor Points for the next minute.                                                                                 |
+| 13. Acid Saliva       | Unarmed attack causes level acid damage and coats target in corrosive slime.                                             |
+| 14. Parasite          | Unarmed attack deals d6+level damage and heals the Mutant with half the amount.                                          |
+| 15. Long Tail         | Advantage on Balance test. Ability to grab small objects within close range.                                             |
+| 16. Pheromone Glands  | Advantage on test to influence target.                                                                                   |
+| 17. Regeneration      | Pass CON test to heal d6+level hit points.                                                                               |
+| 18. Spore Cloud (R)   | Advantage on defensive test.                                                                                             |
+| 19. Fire Breath       | Ranged attacks that breathes fire for d6+level damage up to nearby.                                                      |
+| 20. Amphibian         | Breathe underwater for 10 minutes. Advantage on test for moving in water.                                                |
 
 ----
 
-|Modules|Effect
-|-------|--------|
-|1. Optical Holoflage |Mimic surroundings to gain advantage on stealth test.
-|2. Jet Booster |Gain ability to fly up to nearby range.
-|3. Toxin Injector |Unarmed attack poisons target. Robot player chooses poison.
-|4. Double Processors |Advantage on INT/WIS check.
-|5. Multiple Limbs |Ability to attack twice.
-|6. Laser Beam |Shoot energy beam up to far-away range for D6+level damage.
-|7. Electric Pulse Discharge |Lowers the Ability Die one step to cause d6+level damage to everyone nearby.
-|8. First Aid Procedure |Test INT to heal d6+level damage to organic target.
-|9. Reactive Armor Plating (R) |Gain 2 Armor Points for the next minute.
-|10. Night Vision Optics |See in the dark for 10 minutes.
-|11. Loudspeaker |Shout short command with booming voice, can be heard for miles.
-|12. Drone Bay |Release and control small flying drone: 10 STR, 10 DEX, 10 HP and does d4 damage. All commands requires rolling the Ability Die.
-|13. Auto-Repair Prompt| Repairs self for d6+level health.
-|14. Laser Targeting Systems |Gain Advantage against one enemy until it is defeated. Only one enemy at a time.
-|15. Energy Shield |All nearby allies gains 2 AP until end of the turn.
-|16. Temperature Adjustment Device |Set fire to/freeze an object. Deal d6+level fire/freezing damage to organic target.
-|17. Decontaminate |Refresh target's Radiation Die by one step.
-|18. Anti EMP Padding (R) |Advantage against EMP-based attacks.
-|19. Plasma Cannon |Deals 3d6+level damage, and lowers Ability Die by two steps.
-|20. Satellite Uplink |Contact satellite in orbit for cryptic information on one subject. Limited to one use per day.
+| Modules                           | Effect                                                                                                                           |
+|:----------------------------------|:---------------------------------------------------------------------------------------------------------------------------------|
+| 1. Optical Holoflage              | Mimic surroundings to gain advantage on stealth test.                                                                            |
+| 2. Jet Booster                    | Gain ability to fly up to nearby range.                                                                                          |
+| 3. Toxin Injector                 | Unarmed attack poisons target. Robot player chooses poison.                                                                      |
+| 4. Double Processors              | Advantage on INT/WIS check.                                                                                                      |
+| 5. Multiple Limbs                 | Ability to attack twice.                                                                                                         |
+| 6. Laser Beam                     | Shoot energy beam up to far-away range for D6+level damage.                                                                      |
+| 7. Electric Pulse Discharge       | Lowers the Ability Die one step to cause d6+level damage to everyone nearby.                                                     |
+| 8. First Aid Procedure            | Test INT to heal d6+level damage to organic target.                                                                              |
+| 9. Reactive Armor Plating (R)     | Gain 2 Armor Points for the next minute.                                                                                         |
+| 10. Night Vision Optics           | See in the dark for 10 minutes.                                                                                                  |
+| 11. Loudspeaker                   | Shout short command with booming voice, can be heard for miles.                                                                  |
+| 12. Drone Bay                     | Release and control small flying drone: 10 STR, 10 DEX, 10 HP and does d4 damage. All commands requires rolling the Ability Die. |
+| 13. Auto-Repair Prompt            | Repairs self for d6+level health.                                                                                                |
+| 14. Laser Targeting Systems       | Gain Advantage against one enemy until it is defeated. Only one enemy at a time.                                                 |
+| 15. Energy Shield                 | All nearby allies gains 2 AP until end of the turn.                                                                              |
+| 16. Temperature Adjustment Device | Set fire to/freeze an object. Deal d6+level fire/freezing damage to organic target.                                              |
+| 17. Decontaminate                 | Refresh target's Radiation Die by one step.                                                                                      |
+| 18. Anti EMP Padding (R)          | Advantage against EMP-based attacks.                                                                                             |
+| 19. Plasma Cannon                 | Deals 3d6+level damage, and lowers Ability Die by two steps.                                                                     |
+| 20. Satellite Uplink              | Contact satellite in orbit for cryptic information on one subject. Limited to one use per day.                                   |
 
 ----
 
-|Psionic powers|Effect|
-|-------------|-------|
-|1. Mental Domination |Target that is close must obey one simple command.
-|2. Healing Energy |Heal nearby target for d6+level HP.
-|3. Nightmare Visions |Nearby target panics and tries to run away and/or hide.
-|4. Cryokinesis |Nearby target takes 1d6+level cold damage and risks paralyzation.
-|5. Pyrokinesis |Nearby target takes 1d6+level fire damage.
-|6. Empathy |Influence nearby target's mood.
-|7. Telepathy |Read nearby target's mind.
-|8. Telekinetic |Manipulate nearby small to medium size object.
-|9. Psi-Blast |Target takes d10+level damage. Up to far-away range.
-|10. Sleep |Nearby target falls asleep.
-|11. Force Field |All nearby allies gain 2 Armor Points for one minute.
-|12. Illusion |Influence what nearby target sees.
-|13. Sound Imitation |Influence what nearby target hears and from where.
-|14. Life Leech |Nearby target takes d6+level damage. User heals same amount.
-|15. Directional Sense |Psionic knows which way is north, where the closest exit is and cannot get lost.
-|16. Clairvoyance |Get a brief glimpse of a place the Psionic has been before.
-|17. Levitation |Levitate up to nearby distance.
-|18. Control Light |Bend light to gain Advantage on stealth test.
-|19. Teleportation |Teleport up to nearby distance.
-|20. Weather Control |Change local weather from cloudy to rain, rain to thunder etc.
+| Psionic powers        | Effect                                                                           |
+|:----------------------|:---------------------------------------------------------------------------------|
+| 1. Mental Domination  | Target that is close must obey one simple command.                               |
+| 2. Healing Energy     | Heal nearby target for d6+level HP.                                              |
+| 3. Nightmare Visions  | Nearby target panics and tries to run away and/or hide.                          |
+| 4. Cryokinesis        | Nearby target takes 1d6+level cold damage and risks paralyzation.                |
+| 5. Pyrokinesis        | Nearby target takes 1d6+level fire damage.                                       |
+| 6. Empathy            | Influence nearby target's mood.                                                  |
+| 7. Telepathy          | Read nearby target's mind.                                                       |
+| 8. Telekinetic        | Manipulate nearby small to medium size object.                                   |
+| 9. Psi-Blast          | Target takes d10+level damage. Up to far-away range.                             |
+| 10. Sleep             | Nearby target falls asleep.                                                      |
+| 11. Force Field       | All nearby allies gain 2 Armor Points for one minute.                            |
+| 12. Illusion          | Influence what nearby target sees.                                               |
+| 13. Sound Imitation   | Influence what nearby target hears and from where.                               |
+| 14. Life Leech        | Nearby target takes d6+level damage. User heals same amount.                     |
+| 15. Directional Sense | Psionic knows which way is north, where the closest exit is and cannot get lost. |
+| 16. Clairvoyance      | Get a brief glimpse of a place the Psionic has been before.                      |
+| 17. Levitation        | Levitate up to nearby distance.                                                  |
+| 18. Control Light     | Bend light to gain Advantage on stealth test.                                    |
+| 19. Teleportation     | Teleport up to nearby distance.                                                  |
+| 20. Weather Control   | Change local weather from cloudy to rain, rain to thunder etc.                   |
 
 ----
 
@@ -241,14 +241,14 @@ Armor provides protection by reducing all incoming damage and comes in 4 differe
 
 If a character wears armor that is not listed in their class, they add their total **Armor Points** (despite how many they have used) to any rolls to **Attack** or **Avoid Damage**.
 
-|Type| AP| Desc.
-|-----|---|----|
-|Light| 2| Dirty rags, pre-war work clothes, animal hides.
-|Medium |4 |Leather Jacket, Metal cans bolted together, Pieces of Plastic.
-|Heavy |6 |Riot Gear, Tires, Metal Sheets.
-|Tech |* |HAZMAT suit, Power Armor, Jet-Pack.
-|Small shield |2 |Traffic Sign, Corrugated Metal.
-|Large shield |4 |Car Door, Sewer Lid.
+| Type         | AP | Desc.                                                          |
+|:-------------|:---|:---------------------------------------------------------------|
+| Light        | 2  | Dirty rags, pre-war work clothes, animal hides.                |
+| Medium       | 4  | Leather Jacket, Metal cans bolted together, Pieces of Plastic. |
+| Heavy        | 6  | Riot Gear, Tires, Metal Sheets.                                |
+| Tech         | *  | HAZMAT suit, Power Armor, Jet-Pack.                            |
+| Small shield | 2  | Traffic Sign, Corrugated Metal.                                |
+| Large shield | 4  | Car Door, Sewer Lid.                                           |
 
 **Enemies** usually have 1 point of armor for every HD above 1. To figure this out quickly simply -1 from their HD. *For example: A 3 HD enemy has an armor value of 2.* Humanoid enemies can also carry shields. (All to a maximum of 10 AP)
 \*Read more about Tech equipment in the Tech section.
@@ -285,16 +285,16 @@ If a character wears armor that is not listed in their class, they add their tot
 
 
 
-|Weapon|Cost|Example|Notes
-|------|----|--------|--------
-|Light Melee|15|Knife, Shiv, Iron Pipe|Close Range.
-|Medium Melee|25|Junk-Sword, Baseball Bat, Machete|Nearby range.
-|Heavy Melee|100|Two-Handed Sword, Fire Axe, Sledgehammer|Exploding damage.
-|Tech Melee|*|Vibro Dagger, Energy Axe, Stun Whip|*
-|Light Ranged|25|Slingshot, Bow and Arrow, Crossbow|Ammo is plentiful and easy to come by. Nearby range.
-|Medium Ranged|50|Handgun, Rifle, SMG**|Uses Slugs as ammo. Up to Far-away range.
-|Heavy Ranged|150|Machine Gun**, Sniper Rifle, Shotgun|Deals exploding damage. Ranges from Nearby (Shotgun) to Distant (Sniper Rifle).
-|Tech Ranged|*|Riot Pistol, Needler, Laser Rifle|*
+| Weapon        | Cost | Example                                  | Notes                                                                           |
+|:--------------|:-----|:-----------------------------------------|:--------------------------------------------------------------------------------|
+| Light Melee   | 15   | Knife, Shiv, Iron Pipe                   | Close Range.                                                                    |
+| Medium Melee  | 25   | Junk-Sword, Baseball Bat, Machete        | Nearby range.                                                                   |
+| Heavy Melee   | 100  | Two-Handed Sword, Fire Axe, Sledgehammer | Exploding damage.                                                               |
+| Tech Melee    | *    | Vibro Dagger, Energy Axe, Stun Whip      | *                                                                               |
+| Light Ranged  | 25   | Slingshot, Bow and Arrow, Crossbow       | Ammo is plentiful and easy to come by. Nearby range.                            |
+| Medium Ranged | 50   | Handgun, Rifle, SMG**                    | Uses Slugs as ammo. Up to Far-away range.                                       |
+| Heavy Ranged  | 150  | Machine Gun**, Sniper Rifle, Shotgun     | Deals exploding damage. Ranges from Nearby (Shotgun) to Distant (Sniper Rifle). |
+| Tech Ranged   | *    | Riot Pistol, Needler, Laser Rifle        | *                                                                               |
 
 \* Read more about Tech equipment in the Tech section.
 \*\* Read more about Full Auto Fire below.
@@ -314,10 +314,10 @@ Whenever weapons and armor is found or about to be bought, roll a **d8** on the 
 
 | Result | Quality die |
 |:------:|:-----------:|
-| 1-3    | d4          |
-| 4-5    | d6          |
-| 6-7    | d8          |
-| 8      | d10         |
+|  1-3   |     d4      |
+|  4-5   |     d6      |
+|  6-7   |     d8      |
+|   8    |     d10     |
 
 ## Converting saves
 
@@ -385,16 +385,16 @@ For every **HD** above the character’s level, add +1 to every roll the player 
 If you want deadlier combat (and who doesn’t), use this following rule:
 When a character (PC or NPC) takes critical damage, roll on the **OofA** table. A character that reaches 0 HP dies straight away.
 
-| OUT | OF ACTION                                                           |
-|:---:|:--------------------------------------------------------------------|
-|  1  | **KO’d** - Knocked out cold.                                        |
-|2|**Bump on the Head** - Disadvantage on all tests for the next 1d4 minutes.|
-|3|**Fractured Bones** - STR, DEX and CON are temp. -2 for the next 1d6 days.|
-|4|**Cracked Skull** - INT and WIS are temp. -2 for the next 1d6 days.|
-|5|**Crippled** - STR or DEX is permanently reduced by 2.|
-|6|**Disfigured** - CHA is permanently reduced by 2. All CHA tests have Disadvantage, apart from CHA tests to threaten or intimidate.|
-|7|**Limb loss** - Roll a d6 - 1. Hand, 2. Foot, 3. Arm, 4. Leg, 5. Face (Decrease CHA to 4), 6. Head (and you're probably dead).
-|8|**Dead** - Spectacularly eviscerated, blown up, melted, smashed into jelly, etc.
+| OUT | OF ACTION                                                                                                                          |
+|:---:|:-----------------------------------------------------------------------------------------------------------------------------------|
+|  1  | **KO’d** - Knocked out cold.                                                                                                       |
+|  2  | **Bump on the Head** - Disadvantage on all tests for the next 1d4 minutes.                                                         |
+|  3  | **Fractured Bones** - STR, DEX and CON are temp. -2 for the next 1d6 days.                                                         |
+|  4  | **Cracked Skull** - INT and WIS are temp. -2 for the next 1d6 days.                                                                |
+|  5  | **Crippled** - STR or DEX is permanently reduced by 2.                                                                             |
+|  6  | **Disfigured** - CHA is permanently reduced by 2. All CHA tests have Disadvantage, apart from CHA tests to threaten or intimidate. |
+|  7  | **Limb loss** - Roll a d6 - 1. Hand, 2. Foot, 3. Arm, 4. Leg, 5. Face (Decrease CHA to 4), 6. Head (and you're probably dead).     |
+|  8  | **Dead** - Spectacularly eviscerated, blown up, melted, smashed into jelly, etc.                                                   |
 
 ## Healing
 
@@ -410,10 +410,10 @@ Rather than track precise numbers, The **Rad-Hack** uses 4 abstract ranges for m
 
 If you want to use existing modules, new and old, with more defined movement rates or measures, use the following table as a guide:
 
-|  CLOSE   |   NEARBY   |  FAR AWAY  |
-|:--------:|:----------:|:----------:|
-| 0 - 5ft  |   5 - 60ft | 60 - 120ft |
-| 0 - 1,5m | 1,5 - 20m  | 20 - 40m   |
+|  CLOSE   |  NEARBY   |  FAR AWAY  |
+|:--------:|:---------:|:----------:|
+| 0 - 5ft  | 5 - 60ft  | 60 - 120ft |
+| 0 - 1,5m | 1,5 - 20m |  20 - 40m  |
 
 ## Encumbrance
 
@@ -431,9 +431,9 @@ For every session, bunker level, dangerous mission and/or major event the charac
 
 All drugs take effect immediately after they have been used and last for **d6 blissful minutes**. When the effect wears off, you get Disadvantage to all INT and WIS tests for the **following hour**. If any one drug is used more than once per day, a CON test must be passed or the user becomes **addicted**. An addict must take one hit every 8 hours, or get disadvantage to all **INT**, **WIS** and **CHA** tests. Drugs are normally easy to come by, and the pricing depends entirely on the supply and demand, but normally cost between 20-50 Slugs/dose.
 
-|  NAME      |   EFFECT                                                                           |
+| NAME       | EFFECT                                                                             |
 |:-----------|:-----------------------------------------------------------------------------------|
-| Aggro      |  Gain 2 AP and get Advantage to all STR tests.                                     |
+| Aggro      | Gain 2 AP and get Advantage to all STR tests.                                      |
 | Brainz     | Advantage to all INT/WIS tests and against Psionic Attacks.                        |
 | Speed      | Act first and get Advantage to all DEX tests.                                      |
 | Sweet      | Advantage to all CHA tests.                                                        |
@@ -452,12 +452,12 @@ The radiation die never goes below d4, but a roll on 1-2 still counts as if it w
 
 | RESULT | EFFECT                                                                 |
 |:-------|:-----------------------------------------------------------------------|
-|    1   | **Glowing** - 1-in-6 chance to gain a random mutation.                 |
-|    2   | **Skin peel** - Disadvantage on all CHA tests for 1 day.               |
-|    3   | **Headache** - Disadvantage on all INT tests for 1 day and d6 damage.  |
-|    4   | **It stings!** - Take d8 damage.                                       |
-|    5   | **It burns!** - Take d12 damage.                                       |
-|    6   | **“I’m melting!“** - You melt into a glowing, horrible mess (and die). |
+| 1      | **Glowing** - 1-in-6 chance to gain a random mutation.                 |
+| 2      | **Skin peel** - Disadvantage on all CHA tests for 1 day.               |
+| 3      | **Headache** - Disadvantage on all INT tests for 1 day and d6 damage.  |
+| 4      | **It stings!** - Take d8 damage.                                       |
+| 5      | **It burns!** - Take d12 damage.                                       |
+| 6      | **“I’m melting!“** - You melt into a glowing, horrible mess (and die). |
 
 ## Poisons
 
@@ -478,7 +478,7 @@ Moments after being Controlled. After that, their software reboots and they go b
 
 | ORDER                       | MODIFICATION |
 |:----------------------------|:------------:|
-| “Give information about...” |       -      |
+| “Give information about...” |      -       |
 | “Protect...”                |      +1      |
 | “Unlock/Lock...”            |      +2      |
 | “Attack...”                 |      +3      |
@@ -494,14 +494,14 @@ Some creatures and NPCs will have predetermined personalities and goals that wil
 
 | RESULT | REACTION                     |
 |:-------|:-----------------------------|
-|   1    | Flee then roll again.        |
-|   2    | Avoid the PCs entirely.      |
-|   3    | Trade with PCs.              |
-|   4    | Give the PCs aid.            |
-|   5    | Mistake the PCs for friends. |
-|   6    | Trick the PCs (roll again).  |
-|   7    | Call for Reinforcements.     |
-|   8    | Capture/Kill/Eat the PCs.    |
+| 1      | Flee then roll again.        |
+| 2      | Avoid the PCs entirely.      |
+| 3      | Trade with PCs.              |
+| 4      | Give the PCs aid.            |
+| 5      | Mistake the PCs for friends. |
+| 6      | Trick the PCs (roll again).  |
+| 7      | Call for Reinforcements.     |
+| 8      | Capture/Kill/Eat the PCs.    |
 
 ## Tech
 
@@ -515,11 +515,11 @@ When rolling to see the **Quality** of Tech, roll a d6 instead of the normal d8.
 
 To effectively use Tech, you must first understand how it works. Normally it is enough that the player describes how her character experiments with the Tech, but some highly advanced Tech requires a successful INT test to fully understand and make use of. Such a roll is often made with Disadvantage.
 
-| EXAMPLE      | NAME                  | EFFECT                                                                                                                  |
-|:-------------|:----------------------|:------------------------------------------------------------------------------------------------------------------------|
-| Melee Weapon | Vibro Dagger          | Ignores armor. +2 Damage.                                                                                               |
-| Melee Weapon | Energy Axe            | Roll damage dice twice, pick the highest. Exploding Damage.                                                             |
-| Melee Weapon | Stun Whip             | Nearby range. Ensnares target on critical hit, dealing damage each moment. Non-lethal.                                  |
+| EXAMPLE       | NAME                 | EFFECT                                                                                                                  |
+|:--------------|:---------------------|:------------------------------------------------------------------------------------------------------------------------|
+| Melee Weapon  | Vibro Dagger         | Ignores armor. +2 Damage.                                                                                               |
+| Melee Weapon  | Energy Axe           | Roll damage dice twice, pick the highest. Exploding Damage.                                                             |
+| Melee Weapon  | Stun Whip            | Nearby range. Ensnares target on critical hit, dealing damage each moment. Non-lethal.                                  |
 | Ranged Weapon | Riot Pistol          | Far-Away range. KOs target on a critical hit. Non-lethal.                                                               |
 | Ranged Weapon | Needler              | Can be loaded with different kinds of poisons. Currently loaded with venomous or paralyzing ammo (50%) and 1d12 rounds. |
 | Ranged Weapon | Laser Rifle          | Roll damage dice twice, pick the highest. Distant range.                                                                |
@@ -553,37 +553,37 @@ These can only be repaired if **Scrap** is used and an INT test is passed. Attac
 | 3-5 | **“Let’s gut it!”** - The wreck is good for 2d6 Scrap. |
 |  6  | **\*BOOM!\*** - Everyone Nearby takes 1d8 damage.      |
 
-| CREATURE                 |  HD  | ACTIONS AND SPECIALS                                                                                                                                                                    |
-|:-------------------------|:----:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Animal Mutant            | 1-10 | Walking, talking animal. 2 Random mutations, medium ranged or melee weapon.                                                                                                             |
-| Ravenous Roach           |  1   | Goes straight for the food, and will eat 1d4 rations of food on a successful attack, instead of dealing damage.                                                                          |
-| Mind Leeches             |  1   | Swaps minds with target on a 1-in-6 on a successful attack.                                                                                                                             |
-| Siamese Vulture          |  1   | Targets the lonely, sick and weak. Attacks twice.                                                                                                                                       |
-| Vermin Swarm             |  1   | Crawls all over target and keeps on biting and scratching. Takes double damage from fire based attacks.                                                                                 |
-| Buzz-Drone               |  1   | Attacks from the air with saw-like blades. Has an 3 Armor Points.                                                                                                                       |
-| RAD-Head                 |  1   | Humanoid whose brain is half melted away by radiation causing madness. Attacks on sight.                                                                                                |
-| Sludge Slaver            |  2   | Aims to enslave and attacks with nets first, then spears.                                                                                                                               |
-| Raider                   |  2   | Can enter drug fueled rage that gives Disadvantage on defence rolls.                                                                                                                    |
-| Raider Poisoner          |  2   | Sneaks up on lone targets and attacks with poison tipped blades 1d6 + CON test or take d6 damage each moment until treated.                                                             |
-| Corpse Worm              |  2   | Explodes out of dead bodies and tries to burrow through target with drill-like mouth. Pass STR test or get burrowed through for 1d8 CON damage. Roll on OofA table if CON reaches zero. |
-| Cannibal                 |  2   | Pale, lumbering mutants that attack with Light Melee, Ranged and 1 random Mutation.                                                                                                     |
-| Cannibal Berserker       |  2   | As above, but attacks in a blood fueled rage (1 moment to activate) with two war axes (d6), Defence Rolls are at a Disadvantage.                                                        |
-| Cannibal Blood Priest    |  3   | Attacks by channeling mutant blood powers, causing blood to flow out of mouth, eyes and ears of target (d6). CON test or all rolls are at a Disadvantage for 1d4 moments.               |
-| Cryo Wasp                |  3   | Normal attacks are at Disadvantage. Area and fire-based attacks deal double damage. Stinger (d4) freezes target until it passes CON test.                                               |
-| Mushroom’d Man           |  3   | Inhale its spores to communicate with it mentally. It can cause linked target to experience hallucinations at will.                                                                     |
-| Glowing Locust Swarm     |  4   | Swarms in the thousands, eats all organic matter. Causes radiation to increase in the area up to Far-Away.                                                                              |
-| Spitting Lizard          |  4   | Spits corrosive acid that deals d6 each turn until cleaned off.                                                                                                                         |
-| Jetpack Ravager          |  4   | Attacks with melee as if ranged by sweeping through the air. Blows up for 3d4 damage to everyone Nearby on defeat.                                                                      |
-| Horror Crab              |  5   | Has 8 Armor Points. Emits nightmare rays hitting d4 Nearby targets when encountered. Pass INT test or get paralyzed from fear until the next combat round.                              |
-| Gene Cultist             |  5   | Armed with Cell Blaster (d8) that mutates target on full damage. (-2 CON + 1 Random Mutation). Targets humans first.                                                                    |
-| Gene Brute               |  6   | 4 random mutations. Ability to use 2 at the same time.                                                                                                                                  |
-| Pterodactyl              |  6   | Silent hunter. Makes a great mount.                                                                                                                                                     |
-| Croaking Pike            |  7   | Half fish, half toad. Hides in dark waters. Loud croaking causes nausea. WIS test or vomit for one moment.                                                                              |
-| Brain Jelly              |  7   | Tentacular blob that floats in the air. Catches intelligent prey for Mind Merge (+1 INT, -2 STR). Easily bored, drops prey from high up.                                                |
-| Desert Whale             |  8   | Crashes through the sand in search of sand-krill. Territorial.                                                                                                                          |
-| Void Traveler            |  8   | Dormant Cell (d12+2) + Dark Vacuum (No Damage) DEX test or be pulled Close to the Void Traveler for 3d6 Void damage.                                                                   |
-| Lumbering Tusk           |  9   | Tusk Fire Breath, hits d4 Nearby targets (d10, sets target on fire). Protective of its young.                                                                                           |
-| T-Rex                    |  9   | Bite and will swallow prey whole on full damage. Would make an awesome mount, but honestly, good luck with that!                                                                         |
-| Gargantuan Defender X-81 | 10   | Attacks with Laser Blaster (d10) and Melting Ray (d12 and melts target on max damage).                                                                                                  |
-| A New You                | 11   | Almost perfect, albino clone of random member of party. Will appear better than original in every way. Will eventually try to consume original, replacing it completely.                |
-| Titanic Slug-Worm        | 12   | Distant, loud tremor is heard a day before arrival. Cracks through the earth causing damage to d4+2 nearby targets. Breathes in and swallows d4+2 nearby targets next round for 1d8 damage. Carries immense wealth inside of its belly. |
+| CREATURE                 |  HD  | ACTIONS AND SPECIALS                                                                                                                                                                                                                    |
+|:-------------------------|:----:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Animal Mutant            | 1-10 | Walking, talking animal. 2 Random mutations, medium ranged or melee weapon.                                                                                                                                                             |
+| Ravenous Roach           |  1   | Goes straight for the food, and will eat 1d4 rations of food on a successful attack, instead of dealing damage.                                                                                                                         |
+| Mind Leeches             |  1   | Swaps minds with target on a 1-in-6 on a successful attack.                                                                                                                                                                             |
+| Siamese Vulture          |  1   | Targets the lonely, sick and weak. Attacks twice.                                                                                                                                                                                       |
+| Vermin Swarm             |  1   | Crawls all over target and keeps on biting and scratching. Takes double damage from fire based attacks.                                                                                                                                 |
+| Buzz-Drone               |  1   | Attacks from the air with saw-like blades. Has an 3 Armor Points.                                                                                                                                                                       |
+| RAD-Head                 |  1   | Humanoid whose brain is half melted away by radiation causing madness. Attacks on sight.                                                                                                                                                |
+| Sludge Slaver            |  2   | Aims to enslave and attacks with nets first, then spears.                                                                                                                                                                               |
+| Raider                   |  2   | Can enter drug fueled rage that gives Disadvantage on defence rolls.                                                                                                                                                                    |
+| Raider Poisoner          |  2   | Sneaks up on lone targets and attacks with poison tipped blades 1d6 + CON test or take d6 damage each moment until treated.                                                                                                             |
+| Corpse Worm              |  2   | Explodes out of dead bodies and tries to burrow through target with drill-like mouth. Pass STR test or get burrowed through for 1d8 CON damage. Roll on OofA table if CON reaches zero.                                                 |
+| Cannibal                 |  2   | Pale, lumbering mutants that attack with Light Melee, Ranged and 1 random Mutation.                                                                                                                                                     |
+| Cannibal Berserker       |  2   | As above, but attacks in a blood fueled rage (1 moment to activate) with two war axes (d6), Defence Rolls are at a Disadvantage.                                                                                                        |
+| Cannibal Blood Priest    |  3   | Attacks by channeling mutant blood powers, causing blood to flow out of mouth, eyes and ears of target (d6). CON test or all rolls are at a Disadvantage for 1d4 moments.                                                               |
+| Cryo Wasp                |  3   | Normal attacks are at Disadvantage. Area and fire-based attacks deal double damage. Stinger (d4) freezes target until it passes CON test.                                                                                               |
+| Mushroom’d Man           |  3   | Inhale its spores to communicate with it mentally. It can cause linked target to experience hallucinations at will.                                                                                                                     |
+| Glowing Locust Swarm     |  4   | Swarms in the thousands, eats all organic matter. Causes radiation to increase in the area up to Far-Away.                                                                                                                              |
+| Spitting Lizard          |  4   | Spits corrosive acid that deals d6 each turn until cleaned off.                                                                                                                                                                         |
+| Jetpack Ravager          |  4   | Attacks with melee as if ranged by sweeping through the air. Blows up for 3d4 damage to everyone Nearby on defeat.                                                                                                                      |
+| Horror Crab              |  5   | Has 8 Armor Points. Emits nightmare rays hitting d4 Nearby targets when encountered. Pass INT test or get paralyzed from fear until the next combat round.                                                                              |
+| Gene Cultist             |  5   | Armed with Cell Blaster (d8) that mutates target on full damage. (-2 CON + 1 Random Mutation). Targets humans first.                                                                                                                    |
+| Gene Brute               |  6   | 4 random mutations. Ability to use 2 at the same time.                                                                                                                                                                                  |
+| Pterodactyl              |  6   | Silent hunter. Makes a great mount.                                                                                                                                                                                                     |
+| Croaking Pike            |  7   | Half fish, half toad. Hides in dark waters. Loud croaking causes nausea. WIS test or vomit for one moment.                                                                                                                              |
+| Brain Jelly              |  7   | Tentacular blob that floats in the air. Catches intelligent prey for Mind Merge (+1 INT, -2 STR). Easily bored, drops prey from high up.                                                                                                |
+| Desert Whale             |  8   | Crashes through the sand in search of sand-krill. Territorial.                                                                                                                                                                          |
+| Void Traveler            |  8   | Dormant Cell (d12+2) + Dark Vacuum (No Damage) DEX test or be pulled Close to the Void Traveler for 3d6 Void damage.                                                                                                                    |
+| Lumbering Tusk           |  9   | Tusk Fire Breath, hits d4 Nearby targets (d10, sets target on fire). Protective of its young.                                                                                                                                           |
+| T-Rex                    |  9   | Bite and will swallow prey whole on full damage. Would make an awesome mount, but honestly, good luck with that!                                                                                                                        |
+| Gargantuan Defender X-81 |  10  | Attacks with Laser Blaster (d10) and Melting Ray (d12 and melts target on max damage).                                                                                                                                                  |
+| A New You                |  11  | Almost perfect, albino clone of random member of party. Will appear better than original in every way. Will eventually try to consume original, replacing it completely.                                                                |
+| Titanic Slug-Worm        |  12  | Distant, loud tremor is heard a day before arrival. Cracks through the earth causing damage to d4+2 nearby targets. Breathes in and swallows d4+2 nearby targets next round for 1d8 damage. Carries immense wealth inside of its belly. |
