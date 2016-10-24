@@ -391,7 +391,7 @@ When a character (PC or NPC) takes critical damage, roll on the **OofA** table. 
 |2|**Bump on the Head** - Disadvantage on all tests for the next 1d4 minutes.|
 |3|**Fractured Bones** - STR, DEX and CON are temp. -2 for the next 1d6 days.|
 |4|**Cracked Skull** - INT and WIS are temp. -2 for the next 1d6 days.|
-|5|**Crippled** - STR and DEX is permanently reduced by 2.|
+|5|**Crippled** - STR or DEX is permanently reduced by 2.|
 |6|**Disfigured** - CHA is permanently reduced by 2. All CHA tests have Disadvantage, apart from CHA tests to threaten or intimidate.|
 |7|**Limb loss** - Roll a d6 - 1. Hand, 2. Foot, 3. Arm, 4. Leg, 5. Face (Decrease CHA to 4), 6. Head (and you're probably dead).
 |8|**Dead** - Spectacularly eviscerated, blown up, melted, smashed into jelly, etc.
