@@ -250,7 +250,7 @@ If a character wears armor that is not listed in their class, they add their tot
 |Small shield |2 |Traffic Sign, Corrugated Metal.
 |Large shield |4 |Car Door, Sewer Lid.
 
-**Enemies** usually have 1 point of armor for every HD above 1. To figure this out quickly simply -1 from their HD. *For example: A 3 HD enemy has an armor value of 2.* Humanoid enemies can also carry shields. (All to a maximum of 10)
+**Enemies** usually have 1 point of armor for every HD above 1. To figure this out quickly simply -1 from their HD. *For example: A 3 HD enemy has an armor value of 2.* Humanoid enemies can also carry shields. (All to a maximum of 10 AP)
 \*Read more about Tech equipment in the Tech section.
 
 | Item                   | Cost   | Usage die | Notes                       |
