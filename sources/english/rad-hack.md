@@ -551,7 +551,7 @@ These can only be repaired if **Scrap** is used and an INT test is passed. Attac
 |:---:|:-------------------------------------------------------|
 | 1-2 | **“Come on!”** - Can be repaired if d4 Scrap is used.  |
 | 3-5 | **“Let’s gut it!”** - The wreck is good for 2d6 Scrap. |
-|  6  | **\*BOOM!\*** - Everyone Nearby takes 1d8 damage.      |
+|  6  | __\*BOOM!\*__ - Everyone Nearby takes 1d8 damage.      |
 
 | CREATURE                 |  HD  | ACTIONS AND SPECIALS                                                                                                                                                                                                                    |
 |:-------------------------|:----:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
