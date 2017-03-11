@@ -1,5 +1,9 @@
 # Changelog
 
+## master (unreleased)
+
+* Typo fix in the "car crash table", thx @nicholaslgoodman (#7).
+
 ## v0.1.0 (2016-10-24)
 
 * English text added.
